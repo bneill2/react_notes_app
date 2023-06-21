@@ -6,9 +6,6 @@ Uses Firebase's Firestore NoSQL DB to store and persist data.
 
 Dev environment generated using [Vite](vitejs.dev). 
 
-To view completed project visit:
-[https://classy-cocada-c037cb.netlify.app/](https://classy-cocada-c037cb.netlify.app/)
-
 ## Available Scripts
 
 In the project directory, you can run:
